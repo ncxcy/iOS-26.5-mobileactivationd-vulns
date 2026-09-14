@@ -1,6 +1,6 @@
 # mobileactivationd iOS 26.5 (23F77) vulnerabilities
 
-**only for iOS 26.5, i don't know if these vulns exist in earlier versions, you need to check by yourself, i hope this is valuable to someone <3 (im publishing all of this beacuse all asked me for proofs of vulns which i found and here are they (SecureROM and mobileactivationd)**
+**only for iOS 26.5, i don't know if these vulns exist in earlier versions, you need to check by yourself, i hope this is valuable to someone (pacibsp approach uploading soon) <3 (im publishing all of this beacuse all asked me for proofs of vulns which i found SecureROM and mobileactivationd**
 
 ---
 
